@@ -35,7 +35,7 @@ O site **Pet Clinin** simula uma clínica veterinária com informações organiz
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/felipecidade94/html-developer-dio-desafio-2.git
+   git clone https://github.com/felipecidade94/pet-clinin
 
 2. Abra o arquivo `home.html` no navegador de sua preferência.
 
