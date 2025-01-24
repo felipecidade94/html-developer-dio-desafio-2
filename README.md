@@ -44,3 +44,9 @@ O site **Pet Clinin** simula uma clínica veterinária com informações organiz
 - Adicionar **CSS** para estilização das páginas.
 - Implementar **JavaScript** para validação de formulários.
 - Tornar o site **responsivo** para dispositivos móveis.
+
+## Contato
+
+- [GitHub](https://github.com/felipecidade94)
+- [intagram](https://www.instagram.com/felipe.city/)
+- [Linkedin](https://www.linkedin.com/in/cidadefelipe/)
